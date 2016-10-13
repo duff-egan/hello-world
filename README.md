@@ -1,2 +1,3 @@
 # hello-world
-My first GitHub repository.
+
+This is my first GitHub repository. I'm learning how GitHub manages version control of my files.
